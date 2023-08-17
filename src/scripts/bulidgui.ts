@@ -10,6 +10,8 @@ import { Effect } from "@babylonjs/core/Materials/effect"
 import { PostProcess, Engine, Scene, ArcRotateCamera, Vector3, HemisphericLight, Mesh, MeshBuilder, StandardMaterial, Color3, CubeTexture, Texture, DirectionalLight, PBRMaterial, HDRCubeTexture, PassPostProcess, FxaaPostProcess, ProceduralTexture, NoiseProceduralTexture, ShaderMaterial, VertexBuffer, Vector4, Color4, Matrix, float } from "@babylonjs/core";
 import { SceneLoader } from '@babylonjs/core/Loading/sceneLoader';
 
+///测试一下
+
 export class GuiCreator{
     CreateCocosGui(engine:Engine, carPaintmat:ShaderMaterial){
         //GUI//
