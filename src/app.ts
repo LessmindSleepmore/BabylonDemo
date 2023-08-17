@@ -15,6 +15,8 @@ import { IBLBruteForceCarPaintCreator } from './scripts/IBLcarpaint';
 import { SkyboxCreator } from './scripts/skybox';
 import { FNMTexture } from './scripts/FMNtexture';
 
+///拉取测试
+
 class App {
     constructor() {
         var canvas = document.createElement("canvas");
