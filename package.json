@@ -1,0 +1,25 @@
+{
+  "name": "babylondemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack-dev-server --port 7777"
+},
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babylonjs/core": "^6.5.0",
+    "clean-webpack-plugin": "^4.0.0",
+    "html-webpack-plugin": "^5.5.1",
+    "ts-loader": "^9.4.3",
+    "typescript": "^5.0.4",
+    "webpack": "^5.84.1",
+    "webpack-cli": "^5.1.1",
+    "webpack-dev-server": "^4.15.0"
+  },
+  "dependencies": {
+    "@babylonjs/inspector": "^6.5.0"
+  }
+}
