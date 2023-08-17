@@ -17,7 +17,7 @@ import { FNMTexture } from './scripts/FMNtexture';
 
 ///拉取测试
 //测试2
-
+//dds
 
 class App {
     constructor() {
