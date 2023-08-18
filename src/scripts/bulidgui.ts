@@ -11,6 +11,7 @@ import { PostProcess, Engine, Scene, ArcRotateCamera, Vector3, HemisphericLight,
 import { SceneLoader } from '@babylonjs/core/Loading/sceneLoader';
 
 ///测试一下
+///dsdd
 
 export class GuiCreator{
     CreateCocosGui(engine:Engine, carPaintmat:ShaderMaterial){
